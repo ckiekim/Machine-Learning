@@ -14,7 +14,7 @@ model/
 googlemapskey.txt
 human_activity/
 santander/
-data/OpinosisDataset1.0/
+OpinosisDataset1.0/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
